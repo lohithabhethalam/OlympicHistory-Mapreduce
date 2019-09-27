@@ -18,7 +18,7 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 What makes it a big data problem? (Specifically describe your data source in terms of the Vs of Big Data.)
 ## Big Data Questions
 one question per developer. list one question for each responsible party (make sure you can answer the question using MapReduce)
-- For each year, I'll calculate the count of male people who participated in Olympic games.
+- For each year, I'll calculate the count of male people who participated in Olympic games. (Lohitha Bhethalam)
 ## Big data solutions
 one solution per developer.
 - Lohitha Bhethalam
