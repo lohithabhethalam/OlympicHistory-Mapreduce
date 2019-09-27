@@ -14,7 +14,7 @@ This project is used to implement map reduce functionality on our bigdata source
 Our datasource provides 120 years historic information of Olympic games.Datasource provides 120 years of data.The datasource is structured in excel sheet. 
 ## Link to datasource
 - https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-## The challange
+## The challenge
 What makes it a big data problem? 
 - Volume: There is 5MB of data in this dataset and 271,000 records. 120 years of Olympic data is available in this source.
 - Variety: This dataset is structured and it is in excel format.
