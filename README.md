@@ -20,6 +20,7 @@ What makes it a big data problem? (Specifically describe your data source in ter
 one question per developer. list one question for each responsible party (make sure you can answer the question using MapReduce)
 - For each year, I'll calculate the count of male people who participated in Olympic games. (Lohitha Bhethalam)
 - For each country, Find the total number of participants. (Poojitha Singam) 
+- For each year, Find the average age of players participated in Olympic games. (Divyaharshini Bheemireddy)
 
 ## Big data solutions
 one solution per developer.
