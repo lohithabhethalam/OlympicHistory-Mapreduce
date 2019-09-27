@@ -22,7 +22,6 @@ What makes it a big data problem?
 - Veracity: Data is very clear. They are no unnecessary columns and the data was collected from www.sports-reference.com (Links to an external site.) and it seems to be trustworthy.
 - Value: Using this data source we can evaluate 120 years of Olympic history data including their gender, their year of participation, season, year and all the other information.
 ## Big Data Questions
-one question per developer. list one question for each responsible party (make sure you can answer the question using MapReduce)
 - For each year, I'll calculate the count of male people who participated in Olympic games. (Lohitha Bhethalam)
 - For each country, Find the total number of participants. (Poojitha Singam) 
 - For each year, Find the average age of players participated in Olympic games. (Divyaharshini Bheemireddy)
@@ -31,7 +30,6 @@ one question per developer. list one question for each responsible party (make s
 one solution per developer.
 - Lohitha Bhethalam
   * Mapper input
-
   * Mapper output/reducer input
   * Reducer output
   * Language being used
