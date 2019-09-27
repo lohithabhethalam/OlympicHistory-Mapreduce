@@ -73,4 +73,20 @@ What makes it a big data problem?
     * I used Python for map reducing.
   * What kind of chart will you use to display your results? 
     * I will use Bar chart to display my results.
-
+ 
+- #### Gangadhar Adusumalli
+  * Mapper input:
+    * 135557	Dominik ycki	M	34	192	95	Poland	POL	2008 Summer	2008	Summer	Beijing	Sailing	Sailing Men's Two Person Keelboat	NA
+      
+  * Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+     * 1992 USA 
+     * 2008 Beijing 
+     * 2016 Rio
+     * 2012 London  
+    
+  * Reducer output:
+    *  year = 1992 sum of all players = 2235
+  * Language being used:
+    * The language that I am using for map reducing is "Python".
+  * What kind of chart will you use to display your results? 
+    * I will use pie chart to display my results.
