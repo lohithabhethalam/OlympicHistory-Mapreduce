@@ -19,11 +19,11 @@ What makes it a big data problem?
 - Volume: There is 5MB of data in this dataset and 271,000 records. 120 years of Olympic data is available in this source.
 - Variety: This dataset is structured and it is in excel format.
 - Velocity: Data will be generated based on when the Olympic games were organized.  
-- Veracity: Data is very clear. They are no unnecessary columns and the data was collected from www.sports-reference.com (Links to an external site.) and it seems to be trustworthy.
+- Veracity: Data is very clear. They are no unnecessary columns and the data was collected from www.sports-reference.com and it seems to be trustworthy.
 - Value: Using this data source we can evaluate 120 years of Olympic history data including their gender, their year of participation, season, year and all the other information.
 ## Big Data Questions
 - For each year, I'll calculate the count of male people who participated in Olympic games. (Lohitha Bhethalam)
-- For each country, Find the total number of participants. (Poojitha Singam) 
+- For each country,I'll find the maximum height of participants. (Poojitha Singam) 
 - For each year, Find the average age of players participated in Olympic games. (Divyaharshini Bheemireddy)
 - For each country,I will find the sum of all the players particpated in Olympic games. (Gangadhar Adusumalli)
 
