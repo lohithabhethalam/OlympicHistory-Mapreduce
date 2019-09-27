@@ -32,17 +32,17 @@ one solution per developer.
 - Lohitha Bhethalam
   * Mapper input
     *One line of data that mapper will read:
-     1	A Dijiang	M	24	180	80	China	CHN	1992 Summer	1992	Summer	Barcelona	Basketball	Basketball Men's Basketball	NA
+      * 1	A Dijiang	M	24	180	80	China	CHN	1992 Summer	1992	Summer	Barcelona	Basketball	Basketball Men's Basketball	NA
   * Mapper output/reducer input
-     example of an intermediate key, value pair output by your mapper:
-     1992 M
-     1992 F
-     1993 M
-     1993 M
-     1993 F
+     * example of an intermediate key, value pair output by your mapper:
+     * 1992 M
+     * 1992 F
+     * 1993 M
+     * 1993 M
+     * 1993 F
   * Reducer output
-    year = 1992 count of male people = 48
+    *  year = 1992 count of male people = 48
   * Language being used
-    The language that I am using for map reducing is "Python".
+    * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
-    I will use pie chart to display my results.
+    * I will use pie chart to display my results.
