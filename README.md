@@ -89,4 +89,4 @@ What makes it a big data problem?
   * Language being used:
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
-    * I will use pie chart to display my results.
+    * I will use bar chart to display my results.
