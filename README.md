@@ -1,5 +1,5 @@
 # Olympic History
-We are working on this project for Bigdata course.Our project number is 05. 
+We are working on this project for Bigdata course. Our project number is 05. 
 ## List of developers
 - Gangadhar Adusumalli
 - Lohitha Bhethalam
@@ -18,6 +18,7 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 What makes it a big data problem? (Specifically describe your data source in terms of the Vs of Big Data.)
 ## Big Data Questions
 one question per developer. list one question for each responsible party (make sure you can answer the question using MapReduce)
+- For each year, I'll calculate the count of male people who participated in Olympic games.
 ## Big data solutions
 one solution per developer.
 - mapper input
