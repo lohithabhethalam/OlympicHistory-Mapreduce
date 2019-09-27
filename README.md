@@ -21,8 +21,9 @@ one question per developer. list one question for each responsible party (make s
 - For each year, I'll calculate the count of male people who participated in Olympic games.
 ## Big data solutions
 one solution per developer.
-- mapper input
-- mapper output/reducer input
-- reducer output
-- language being used
-- What kind of chart will you use to display your results?  
+- Lohitha Bhethalam
+-- mapper input
+-- mapper output/reducer input
+-- reducer output
+-- language being used
+-- What kind of chart will you use to display your results?  
