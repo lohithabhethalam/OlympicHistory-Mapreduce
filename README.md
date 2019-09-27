@@ -1,4 +1,4 @@
-# project-name
+# Olympic History
 We are working on this project for Bigdata course.Our project number is 05. 
 ## List of developers
 - Gangadhar Adusumalli
@@ -9,11 +9,11 @@ We are working on this project for Bigdata course.Our project number is 05.
 - https://github.com/lohithabhethalam/project
 - https://github.com/lohithabhethalam/project/issues
 ## Introduction
-introduction of our project
+This project is used to implement map reduce functionality on our bigdata source Olympic history.The reason why we chose olympic history as our datasource is because they are many columns which gave us multiple options to map reduce.
 ## Datasource
-description of our datasource
+Our datasource provides 120 years historic information of Olympic games.Datasource provides 120 years of data.The datasource is structured in excel sheet. 
 ## Link to datasource
-link to our datasource
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 ## The challange
 What makes it a big data problem? (Specifically describe your data source in terms of the Vs of Big Data.)
 ## Big Data Questions
