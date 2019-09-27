@@ -24,11 +24,11 @@ What makes it a big data problem?
 ## Big Data Questions
 - For each year, I'll calculate the count of male people who participated in Olympic games. (Lohitha Bhethalam)
 - For each country,I'll find the maximum height of participants. (Poojitha Singam) 
-- For each year, Find the average age of players participated in Olympic games. (Divyaharshini Bheemireddy)
+- For each year,I'll find the average age of players participated in Olympic games. (Divyaharshini Bheemireddy)
 - For each country,I will find the sum of all the players particpated in Olympic games. (Gangadhar Adusumalli)
 
 ## Big data solutions
-one solution per developer.
+ One solution per developer.
 - #### Lohitha Bhethalam
   * Mapper input: One line of data that mapper will read:
       * 1	A Dijiang	M	24	180	80	China	CHN	1992 Summer	1992	Summer	Barcelona	Basketball	Basketball Men's Basketball	NA
