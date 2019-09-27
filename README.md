@@ -44,3 +44,17 @@ one solution per developer.
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
     * I will use pie chart to display my results.
+- Divyaharshini Bheemireddy
+  * Mapper input: One line of data that mapper will read:
+      * 1	A Dijiang	M	24	180	80	China	CHN	1992 Summer	1992	Summer	Barcelona	Basketball	Basketball Men's Basketball	NA
+  * Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+      * 2000 31
+      * 2004 27
+      * 1996 21
+      * 2016 29
+  * Reducer output:
+      * year = 2004 average age of players = 22.5 
+  * Language being used:
+    * The language that I am using for map reducing is "Python".
+  * What kind of chart will you use to display your results? 
+    * I will use pie chart to display my results.  
