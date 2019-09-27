@@ -58,3 +58,19 @@ one solution per developer.
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
     * I will use pie chart to display my results.  
+- #### Poojitha Singam
+  * Mapper input: One line of data that mapper will read:
+      * 1	A Dijiang	M	24	180	80	China	CHN	1992 Summer	1992	Summer	Barcelona	Basketball	Basketball Men's Basketball	NA
+  * Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+     * Barcelona 180
+     * London 170
+     * Calgary 185
+     * Albertville 185
+     * Lillehammer 188
+  * Reducer output
+    *  Country = Barcelona max height of paticipant = 188
+  * Language being used
+    * I used Python for map reducing.
+  * What kind of chart will you use to display your results? 
+    * I will use Bar chart to display my results.
+
