@@ -15,7 +15,7 @@ Our datasource provides 120 years historic information of Olympic games.Datasour
 ## Link to datasource
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 ## The challange
-What makes it a big data problem? (Specifically describe your data source in terms of the Vs of Big Data.)
+What makes it a big data problem? 
 - Volume: There is 5MB of data in this dataset and 271,000 records. 120 years of Olympic data is available in this source.
 - Variety: This dataset is structured and it is in excel format.
 - Velocity: Data will be generated based on when the Olympic games were organized.  
