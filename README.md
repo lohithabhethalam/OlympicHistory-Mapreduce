@@ -22,8 +22,9 @@ one question per developer. list one question for each responsible party (make s
 ## Big data solutions
 one solution per developer.
 - Lohitha Bhethalam
--- mapper input
--- mapper output/reducer input
--- reducer output
--- language being used
--- What kind of chart will you use to display your results?  
+### Mapper input
+
+### Mapper output/reducer input
+### Reducer output
+### Language being used
+### What kind of chart will you use to display your results?  
