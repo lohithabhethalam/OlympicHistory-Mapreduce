@@ -38,9 +38,9 @@ one solution per developer.
      * 1993 M
      * 1993 M
      * 1993 F
-  * Reducer output
+  * Reducer output:
     *  year = 1992 count of male people = 48
-  * Language being used
+  * Language being used:
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
     * I will use pie chart to display my results.
