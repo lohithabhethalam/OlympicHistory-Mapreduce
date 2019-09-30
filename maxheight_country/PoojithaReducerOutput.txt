@@ -1,0 +1,42 @@
+Mexico City	216
+Paris	198
+Oslo	196
+Torino	206
+Sochi	206
+Sankt Moritz	211
+Vancouver	206
+Sydney	226
+Calgary	200
+Lake Placid	200
+Beijing	226
+Lillehammer	200
+Seoul	223
+Innsbruck	200
+Tokyo	218
+Berlin	205
+Munich	223
+Squaw Valley	191
+Los Angeles	218
+Salt Lake City	201
+Atlanta	223
+Grenoble	193
+Chamonix	191
+Helsinki	213
+Cortina d'Ampezzo	199
+Nagano	200
+Barcelona	223
+Rio de Janeiro	218
+Melbourne	218
+Sarajevo	200
+Roma	218
+Garmisch-Partenkirchen	189
+Albertville	200
+Montreal	220
+St. Louis	195
+Antwerpen	197
+Athina	226
+London	221
+Amsterdam	202
+Moskva	220
+Sapporo	201
+Stockholm	196
