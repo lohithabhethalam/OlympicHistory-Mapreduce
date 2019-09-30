@@ -2,7 +2,7 @@
 reducerinput = open("mapperoutput.txt","r")
 # write output contents in result.txt
 reduceroutput = open("reduceroutput.txt", "w")
-# sort the contents of reducerinput
+# sort the contents of reducerinput (do not use below 2 lines of code if you are running file in VM, as VM by default has sort/shuffle programs in them)
 lines = reducerinput.readlines()
 lines.sort()
 # set variable malecount value to 0
@@ -30,6 +30,7 @@ for line in lines:
 for keyItem,value in thisDictionary.items():
 
     reduceroutput.write("Year: "+keyItem+"\t"+"count of male people: "+str(value) +"\n")
+    print("Year: "+keyItem+"\t"+"count of male people: "+str(value) +"\n")
 # close mapperoutput.txt and reduceroutput.txt
 reducerinput.close()
 reduceroutput.close()

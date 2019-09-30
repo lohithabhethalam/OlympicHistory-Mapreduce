@@ -10,6 +10,7 @@ for line in mapperinput:
   if (len(data) == 15):
     ID, Name, Sex, Age, Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event, Medal = data
     mapperoutput.write(Year + "\t" + Sex+ "\n")
+    print(Year + "\t" + Sex+ "\n")
 # close athelete_events.txt and mapperoutput.txt
 mapperinput.close()
 mapperoutput.close()
