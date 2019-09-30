@@ -1,681 +1,681 @@
-China	3580
-Finland	3631
-Hungary	4729
-Lithuania	461
-Canada	6371
-South Africa	1220
-Estonia	560
-Italy	7060
-United States-2	171
-Germany	7103
-West Germany	2447
-Belgium	2931
-East Germany	1904
-Australia	5361
-Great Britain	7989
-Argentina	2280
-Portugal	980
-Netherlands	4770
-Colombia	732
-Austria	3553
-Greece	2033
-Switzerland	4630
-Romania	2929
-Great Britain-1	132
-NA	641
-United States	12249
-Israel	481
-Uruguay	398
-Monaco	137
-Czechoslovakia	3052
-Spain	3588
-Yugoslavia	1765
-Slovakia	682
-Kazakhstan	1126
-Andorra	132
-Sri Lanka	110
-Soviet Union	4007
-France	8223
-Poland	4454
-Philippines	467
-Mexico	2018
-Germany-2	118
+China	4975
+Finland	5359
+Hungary	6443
+Lithuania	651
+Canada	9196
+South Africa	1688
+Estonia	870
+Italy	10252
+United States-2	250
+Germany	9234
+West Germany	3160
+Belgium	3667
+East Germany	2468
+Australia	7474
+Great Britain	11294
+Argentina	3189
+Portugal	1472
+Netherlands	5694
+Colombia	1068
+Austria	4818
+Greece	2976
+Switzerland	5839
+Romania	4271
+Great Britain-1	188
+NA	869
+United States	16616
+Israel	653
+Uruguay	570
+Monaco	188
+Czechoslovakia	4326
+Spain	5222
+Yugoslavia	2556
+Slovakia	1034
+Kazakhstan	1429
+Andorra	169
+Sri Lanka	146
+Soviet Union	5500
+France	11924
+Poland	6080
+Philippines	650
+Mexico	2847
+Germany-2	161
 Tantalus	2
-Italy-2	120
-Brazil	2741
-Kyrgyzstan	171
-Dinah V	1
-Russia	3622
-Indonesia-2	17
-Bulgaria	2591
-Cambodia	54
-45	14
-Omilos Ereton Peiraios-2	2
-Ethiopia	291
-Luxembourg	760
-Ingegerd	2
-Sweden	5685
-Ukraine	1832
-Chile	647
-Georgia	224
-Cuba	1629
-Canada-1	96
-New Zealand	1691
-Ghana	212
-Egypt	1310
-Slovenia	779
-Liberia	54
-Puerto Rico	643
-Honduras	112
-Peru	363
-Dominican Republic	192
-Panama	108
-54	27
-Aruba	31
-Iceland	540
-Socialer Turnverein	4
-84	29
-Ireland	816
-United States-3	38
-Iran	532
-Denmark	2201
-Czech Republic	1310
-Unified Team	615
-Morocco	489
-France-2	90
-Tunisia	367
-Jamaica	605
+Italy-2	156
+Brazil	3771
+Kyrgyzstan	227
+Dinah V	3
+Russia	4916
+Indonesia-2	26
+Bulgaria	3508
+Cambodia	61
+45	17
+Omilos Ereton Peiraios-2	3
+Ethiopia	378
+Luxembourg	984
+Ingegerd	4
+Sweden	7997
+Ukraine	2508
+Chile	915
+Georgia	286
+Cuba	2457
+Canada-1	147
+New Zealand	2315
+Ghana	359
+Egypt	1622
+Slovenia	1107
+Liberia	74
+Puerto Rico	907
+Honduras	189
+Peru	519
+Dominican Republic	277
+Panama	136
+54	30
+Aruba	42
+Iceland	627
+Socialer Turnverein	6
+84	41
+Ireland	1309
+United States-3	44
+Iran	789
+Denmark	3396
+Czech Republic	1794
+Unified Team	826
+Morocco	682
+France-2	121
+Tunisia	561
+Jamaica	836
 Cobweb-1	5
-British Virgin Islands	38
-Azerbaijan	179
-North Korea	637
-Japan	6208
-Norway	3586
-Latvia	599
-France-1	104
-Croatia	651
-Czech Republic-2	32
-Brazil-1	17
-Brazil-2	21
-Guinea Bissau	15
-United States Virgin Islands	204
-Toronto Argonauts	17
-Lebanon	254
-Socit Nautique de Bayonne	14
-Wales-4	7
+British Virgin Islands	45
+Azerbaijan	283
+North Korea	795
+Japan	8289
+Norway	4649
+Latvia	864
+France-1	135
+Croatia	876
+Czech Republic-2	36
+Brazil-1	28
+Brazil-2	28
+Guinea Bissau	21
+United States Virgin Islands	259
+Toronto Argonauts	25
+Lebanon	325
+Socit Nautique de Bayonne	19
+Wales-4	11
 Brat	2
-Zimbabwe	207
-Antigua and Barbuda	96
-80	41
-Australasia	53
-Nicaragua	83
+Zimbabwe	308
+Antigua and Barbuda	133
+80	57
+Australasia	77
+Nicaragua	129
 Boston Archers	4
-72	30
-Great Britain-2	125
-Trinidad and Tobago	300
+72	35
+Great Britain-2	188
+Trinidad and Tobago	373
 Nora	2
-Monica	2
-Guyana	79
-98	7
-East Germany-2	39
-Bohemia	113
-Escapade	2
+Monica	3
+Guyana	102
+98	9
+East Germany-2	48
+Bohemia	136
+Escapade	3
 Terrible	2
-Sweden-2	40
-Venezuela	598
-Llanoria	6
-Argonaut Rowing Club	5
-91	20
-Kullan	2
-Liechtenstein	315
-67	18
-Indonesia	248
-United Arab Republic	111
+Sweden-2	46
+Venezuela	921
+Llanoria	8
+Argonaut Rowing Club	6
+91	50
+Kullan	3
+Liechtenstein	367
+67	27
+Indonesia	355
+United Arab Republic	123
 Emily	5
 Feo	6
-Mauritius	90
-Latvia-2	30
-Nepal	64
-Netherlands Antilles	63
-68	34
-93	13
-Cyprus	163
+Mauritius	140
+Latvia-2	42
+Nepal	94
+Netherlands Antilles	79
+68	53
+93	19
+Cyprus	225
 Amateur Athletic Association	5
 West Indies Federation	18
-Angola	181
-Lemzos Thorichton Spetsai-4	10
-Algeria	365
-Canada-3	19
-Aloha II	3
-East Germany-1	33
-United States-1	192
-Malaysia	345
-Namibia	63
+Angola	267
+Lemzos Thorichton Spetsai-4	17
+Algeria	551
+Canada-3	25
+Aloha II	5
+East Germany-1	48
+United States-1	253
+Malaysia	510
+Namibia	77
 Merope	4
-Nigeria	491
-Union des Socits Franais de Sports Athletiques	22
-Maldives	39
-Cote d'Ivoire	137
-Macedonia	51
-Serbia	257
-Great Britain-3	9
+Nigeria	861
+Union des Socits Franais de Sports Athletiques	28
+Maldives	49
+Cote d'Ivoire	193
+Macedonia	84
+Serbia	388
+Great Britain-3	17
 Shoveller	3
-Passaic Turnverein	5
-Austria-2	90
-Djinn	6
+Passaic Turnverein	6
+Austria-2	124
+Djinn	8
 Tango	6
-Paraguay	102
-El Salvador	158
-Ecuador	165
-Guatemala	286
-Costa Rica	165
+Paraguay	135
+El Salvador	218
+Ecuador	270
+Guatemala	424
+Costa Rica	264
 Heroine	4
-Fiji	136
-Sudan	75
-Individual Olympic Athletes	52
-Pakistan	421
-Malta	87
-Guam	91
-Sierra Leone	84
-Seychelles	74
-Benin	61
-Bahamas	272
-Bolivia	101
-Barbados	162
-Thailand	533
-Cook Islands	25
+Fiji	223
+Sudan	107
+Individual Olympic Athletes	92
+Pakistan	562
+Malta	116
+Guam	109
+Sierra Leone	114
+Seychelles	111
+Benin	71
+Bahamas	344
+Bolivia	150
+Barbados	219
+Thailand	730
+Cook Islands	39
 Australia/Great Britain	2
 Scaup	2
 Jet	3
-Hong Kong	452
-73	38
-Togo	45
-74	27
-Ireland-2	12
-England-1	14
-Djibouti	32
-Albania	43
-Spain-1	21
-Argentina-1	14
-Stade Franais AC-2	1
-77	34
-India	1027
-59	63
+Hong Kong	662
+73	55
+Togo	59
+74	31
+Ireland-2	18
+England-1	23
+Djibouti	38
+Albania	67
+Spain-1	33
+Argentina-1	17
+Stade Franais AC-2	2
+77	62
+India	1397
+59	72
 Studenternes Roklub-2	5
 Legionario	2
 Merope III	4
 St. Louis Southwest Turnverein #1-2	5
 Vento Sul	2
-Chad	30
-Belarus	1259
-Germany-1	117
-Germany-3	20
-Gallia II	4
-Australia-1	30
-Australia-2	28
-41	3
-Mongolia	371
-63	28
-Mozambique	50
-Suriname	37
-Federated States of Micronesia	21
+Chad	41
+Belarus	1780
+Germany-1	159
+Germany-3	24
+Gallia II	7
+Australia-1	40
+Australia-2	40
+41	5
+Mongolia	550
+63	41
+Mozambique	78
+Suriname	69
+Federated States of Micronesia	25
 Circus	2
-Matrero II	4
-Cayman Islands	57
-Racing Club de France	9
-Aphrodite	2
-Saint Kitts and Nevis	24
+Matrero II	6
+Cayman Islands	83
+Racing Club de France	11
+Aphrodite	3
+Saint Kitts and Nevis	42
 Caprice	4
-Canada-2	102
-Moldova	165
-Czechoslovakia-1	20
-Czech Republic-1	31
-Switzerland-1	104
-Qatar	147
-Haiti	92
-Dominica	15
-Romania-1	22
-Palau	19
-Aletta	2
-Italy-1	124
-Romania-2	29
-Ukraine-1	19
-Brussels Swimming and Water Polo Club	8
-Uzbekistan	385
+Canada-2	148
+Moldova	234
+Czechoslovakia-1	24
+Czech Republic-1	36
+Switzerland-1	125
+Qatar	192
+Haiti	105
+Dominica	19
+Romania-1	51
+Palau	24
+Aletta	3
+Italy-1	155
+Romania-2	51
+Ukraine-1	24
+Brussels Swimming and Water Polo Club	9
+Uzbekistan	491
 Enotria	2
-Equatorial Guinea	23
-Netherlands-2	12
-Kenya	544
+Equatorial Guinea	40
+Netherlands-2	14
+Kenya	772
 Verveine-19	1
 Verveine-41	1
 Rhythm	2
-Belgium-2	21
-Bahrain	108
+Belgium-2	27
+Bahrain	126
 Puerto Rico-1	1
-Senegal	309
-Samoa	49
+Senegal	393
+Samoa	63
 Widgeon	1
-Turkey	1103
+Turkey	1351
 New York Turnverein	5
-Kitty-1	6
-Libellule de Paris-3	4
-Brunei	8
-West Germany-2	40
-Saar	62
-60	28
-Poland-1	22
-Poland-2	23
-Saint Vincent and the Grenadines	25
-Grenada	39
-St. Louis Amateur Athletic Association	8
-Sydney Rowing Club	7
-Switzerland-2	95
-Marinai della nave da guerra Varese	15
-San Marino	124
+Kitty-1	8
+Libellule de Paris-3	5
+Brunei	10
+West Germany-2	56
+Saar	93
+60	48
+Poland-1	28
+Poland-2	29
+Saint Vincent and the Grenadines	42
+Grenada	54
+St. Louis Amateur Athletic Association	12
+Sydney Rowing Club	9
+Switzerland-2	131
+Marinai della nave da guerra Varese	24
+San Marino	181
 Roma	9
 Ariette-10	2
 Ariette-8	1
 Roddklubben af 1912-1	5
-Roddklubben af 1912-2	8
-Ireland-3	6
-66	34
-61	38
-Austria-1	91
-Hungary-1	12
-Cupidon Viking	4
-Alain IV	2
-Thames Rowing Club	4
-Armenia	153
+Roddklubben af 1912-2	9
+Ireland-3	10
+66	59
+61	72
+Austria-1	126
+Hungary-1	14
+Cupidon Viking	5
+Alain IV	3
+Thames Rowing Club	5
+Armenia	221
 Damoiselle	3
 Denmark-3	2
 Inca	2
-Turkmenistan	29
-Kuwait	261
+Turkmenistan	54
+Kuwait	284
 Jo	3
-Norway-2	20
-Spain-2	13
-Rwanda	23
-Bermuda	146
-Bosnia and Herzegovina	99
-82	32
-Botswana	47
-64	39
-Yeoman VII	2
-Uganda	144
-69	8
+Norway-2	28
+Spain-2	30
+Rwanda	56
+Bermuda	196
+Bosnia and Herzegovina	134
+82	46
+Botswana	90
+64	41
+Yeoman VII	3
+Uganda	260
+69	9
 Relampago	1
-Latvia-1	29
-Foxhunters Hurlingham	3
-Berliner Ruderverein von 1876-2	4
-Serbia and Montenegro	216
-Tanzania	83
+Latvia-1	42
+Foxhunters Hurlingham	5
+Berliner Ruderverein von 1876-2	9
+Serbia and Montenegro	321
+Tanzania	161
 United States-6	1
-Russia-2	55
-Russia-1	72
-Favorite Hammonia-3	7
-India-2	3
-Kiribati	8
-Davenport Turngemeinde	5
+Russia-2	85
+Russia-1	87
+Favorite Hammonia-3	11
+India-2	4
+Kiribati	11
+Davenport Turngemeinde	6
 Greenoaks Dundee	1
 Seawanhaka Boat Club-1	2
 Gteborgs Roddklubb-1	9
-Poland-3	1
+Poland-3	2
 Sif	4
-American Samoa	20
-South Korea	3032
-Syria	121
-Yemen	26
-Iraq	171
-Norwegier Turnverein	3
-Norway-1	26
+American Samoa	37
+South Korea	4344
+Syria	156
+Yemen	32
+Iraq	232
+Norwegier Turnverein	5
+Norway-1	28
 Hatuey	3
-Laos	46
+Laos	54
 Fantlet-2	1
 Fantlet-7	2
-62	32
+62	38
 Maid of Lebanon	2
-65	32
-United Arab Emirates	136
-Malawi	51
+65	46
+United Arab Emirates	144
+Malawi	87
 Nortazo	2
-Libya	71
-Burkina Faso	28
-Madagascar	20
-86	13
+Libya	84
+Burkina Faso	44
+Madagascar	119
+86	19
 Umberta V	2
-Gambia	44
-Japan-1	43
-Belgium-1	25
-Japan-2	50
-Congo (Brazzaville)	43
+Gambia	56
+Japan-1	66
+Belgium-1	37
+Japan-2	66
+Congo (Brazzaville)	105
 Danaldo	2
 Israel-1	4
-Nautikos Omilos-3	3
-Afghanistan	96
-Bangladesh	39
-Pampero	7
+Nautikos Omilos-3	5
+Afghanistan	126
+Bangladesh	55
+Pampero	9
 Mirtala	3
-North Yemen	10
-Argentina-2	14
-May Be	4
-Ali-Baba II	6
-May Be VII	3
-Congo (Kinshasa)	49
-Argus	3
-Erna Signe	7
+North Yemen	11
+Argentina-2	17
+May Be	5
+Ali-Baba II	7
+May Be VII	5
+Congo (Kinshasa)	93
+Argus	4
+Erna Signe	10
 Chaje II	3
 Lyn-2	5
-Noreg	2
-Mali	81
-Myanmar	68
-Cape Verde	9
-Belize	47
-49	2
+Noreg	3
+Mali	92
+Myanmar	107
+Cape Verde	18
+Belize	76
+49	4
 Vinga-1	5
 Kerstin-1	3
 Sylvia	6
 Heatherbell	7
 Finn II	3
-57	49
-Leander Club-1	16
+57	52
+Leander Club-1	18
 United States/Great Britain	4
 Bissbi	4
-Guinea	58
-China-1	66
-Tajikistan	52
-Malaya	35
-Peiraikos Syndesmos-2	5
-52	25
-Singapore	251
-Mauritania	15
-Montenegro	63
-Barrenjoey	1
-75	43
+Guinea	73
+China-1	80
+Tajikistan	70
+Malaya	45
+Peiraikos Syndesmos-2	8
+52	34
+Singapore	338
+Mauritania	29
+Montenegro	94
+Barrenjoey	3
+75	58
 Sirene	1
-Thessalonki-1	8
+Thessalonki-1	11
 Aldebaran	2
-Japan-3	1
-Marshall Islands	12
-Uzbekistan-2	1
-Dansk Idrts Forbund	5
-Club Nautique de Franais-1	3
-Central African Republic	36
-Palestine	19
-Western Golf Association-1	8
-South Yemen	4
-Rififi	2
-Donar III	1
-West Germany-1	42
-Germania II	5
+Japan-3	2
+Marshall Islands	14
+Uzbekistan-2	2
+Dansk Idrts Forbund	11
+Club Nautique de Franais-1	4
+Central African Republic	67
+Palestine	21
+Western Golf Association-1	9
+South Yemen	5
+Rififi	3
+Donar III	3
+West Germany-1	56
+Germania II	6
 EA II	6
-Vesper Boat Club	13
+Vesper Boat Club	16
 Sunrise	1
-Socit Nautique de Bayonne-1	2
-Socit Nautique de Bayonne-2	5
-Saint Lucia	20
+Socit Nautique de Bayonne-1	3
+Socit Nautique de Bayonne-2	8
+Saint Lucia	28
 Anitra	6
-La Salle Turnverein	4
+La Salle Turnverein	5
 Finland-2	2
-Denmark-2	22
-Denmark-1	19
+Denmark-2	30
+Denmark-1	30
 Mosk II	7
 Gwendoline-2	6
 Gwendoline-22	3
-Hi-Hi	2
-Denmark/Sweden	5
+Hi-Hi	4
+Denmark/Sweden	6
 Silja	5
-88	3
-Frankfurt Club	8
-81	22
+88	4
+Frankfurt Club	15
+81	34
 Complex II	2
-76	14
+76	24
 Bronia	3
 Barco Deloro	4
-Kemphaan	4
-Turnverein Vorwrts	11
-Missouri Athletic Club-3	6
-East Germany-3	5
-78	13
-Netherlands-1	8
-Stella-2	2
-United States Virgin Islands-1	6
-United States Virgin Islands-2	11
-Snap	2
+Kemphaan	5
+Turnverein Vorwrts	12
+Missouri Athletic Club-3	9
+East Germany-3	6
+78	17
+Netherlands-1	14
+Stella-2	3
+United States Virgin Islands-1	11
+United States Virgin Islands-2	12
+Snap	3
 Snude	3
 Tip	3
-White Lady	2
+White Lady	3
 Web II	3
-Web III	2
+Web III	3
 Tim-Tam III	3
-Central Turnverein	4
-Boer Team	4
-79	21
+Central Turnverein	6
+Boer Team	5
+79	30
 Finland-1	2
 Falcon IV	2
 Potsdam	1
-Lesotho	22
+Lesotho	66
 Bohemia-3	2
-Hungaria	4
+Hungaria	5
 Cupidon III	5
 Italy-3	2
-Cameroon	160
-Milwaukee Athletic Club-1	3
-Niger	33
-Magda IX	8
-Soviet Union-2	31
-Soviet Union-3	13
-Papua New Guinea	75
+Cameroon	310
+Milwaukee Athletic Club-1	5
+Niger	47
+Magda IX	10
+Soviet Union-2	43
+Soviet Union-3	20
+Papua New Guinea	108
 Giselle-6	2
-Trans-Mississippi Golf Association-2	4
+Trans-Mississippi Golf Association-2	10
 United States-13	2
-United States-12	1
-Ukraine-2	21
-South Korea-1	41
-South Korea-2	43
-Pistoja/Firenze	5
-Uzbekistan-1	1
-Swaziland	34
+United States-12	2
+Ukraine-2	24
+South Korea-1	60
+South Korea-2	60
+Pistoja/Firenze	9
+Uzbekistan-1	2
+Swaziland	67
 Tlaloc	2
-Indonesia-1	21
-Chinese Taipei	821
+Indonesia-1	26
+Chinese Taipei	1077
 Kuling	3
-Sweden-1	31
-Sweden-3	5
+Sweden-1	44
+Sweden-3	8
 160	3
-Greece-2	7
-Jordan	73
-Saudi Arabia	208
-Posillipo III	1
-Tritons Lillois-2	11
-Titia	3
-Olen	2
-Nokaut II	1
-Almaz	1
-50	36
-Soviet Union-1	29
+Greece-2	10
+Jordan	80
+Saudi Arabia	230
+Posillipo III	3
+Tritons Lillois-2	12
+Titia	5
+Olen	3
+Nokaut II	2
+Almaz	2
+50	44
+Soviet Union-1	41
 China-3	8
-London City Police-1	5
+London City Police-1	8
 Rush IV	2
-Angelita	13
-Vanuatu	29
-Unified Team-3	2
-Russia-3	17
+Angelita	15
+Vanuatu	35
+Unified Team-3	4
+Russia-3	30
 Monaco-1	2
-70	32
-Tulilind	1
-Tornado	4
-Taifun	6
-Zambia	93
-Malaysia-2	7
+70	45
+Tulilind	2
+Tornado	5
+Taifun	7
+Zambia	183
+Malaysia-2	10
 Ardilla	2
-Wiking	4
-Rampage	1
-85	22
+Wiking	5
+Rampage	2
+85	29
 Fantasio III	2
-Danuta	4
+Danuta	5
 Sheerio	6
-Sao Tome and Principe	9
-Faneca	1
+Sao Tome and Principe	15
+Faneca	4
 Bulgaria-1	6
 Greece-4	2
-Greece-1	7
+Greece-1	10
 Windor	2
 Oleander XII	3
 Polyteknisk Roklub-1	5
 Boreas-2	2
 Vim III	2
 Peri	2
-Solomon Islands	20
-Athens-2	9
-Thailand-2	3
+Solomon Islands	27
+Athens-2	11
+Thailand-2	4
 Ralia	5
 Freja	3
-K.S.S.S. 1912-2	5
+K.S.S.S. 1912-2	6
 Lasha	3
-State VI	2
-Greece-3	5
-K Division Metropolitan Police Team-3	7
+State VI	3
+Greece-3	6
+K Division Metropolitan Police Team-3	8
 Linglom	3
 India-1	4
-Tichiboo	1
+Tichiboo	2
 Siames-Cat	2
 Hilarius	2
-Roklubb Kbnhavn-2	4
+Roklubb Kbnhavn-2	5
 Gallant	4
-Minotaur	2
-Sibindi-2	1
-Liverpool Police Team-2	6
+Minotaur	3
+Sibindi-2	3
+Liverpool Police Team-2	8
 United States-9	2
-100	14
+100	15
 Chuckles	2
 Norway-3	2
-Moseley Wanderers	11
-89	17
-Italia	2
+Moseley Wanderers	15
+89	21
+Italia	6
 Ausonia	3
 Mascotte	9
-Mohawk Indians-2	7
-Ubu	4
-Timor Leste	7
-Damoiselle IV	2
-France-3	7
-Yugoslavia-2	9
-Large boat	11
+Mohawk Indians-2	12
+Ubu	5
+Timor Leste	9
+Damoiselle IV	3
+France-3	12
+Yugoslavia-2	10
+Large boat	17
 Kristiania Roklub	9
-Kristiania Roklub-1	9
+Kristiania Roklub-1	10
 Slovakia-2	6
-Apache	3
-Cornwall	13
-Nauru	11
-Sabre	2
-Magdalen College Boat Club-1	3
+Apache	4
+Cornwall	15
+Nauru	13
+Sabre	3
+Magdalen College Boat Club-1	4
 North Korea-2	6
-Hong Kong-2	4
+Hong Kong-2	6
 Malaysia-1	10
-Aretusa	2
-Argeste	2
-Slovakia-1	6
-Club Nautique de Lyon-2	4
-56	30
-Phalainis ton Thorichtou Hydra-2	14
+Aretusa	3
+Argeste	3
+Slovakia-1	8
+Club Nautique de Lyon-2	8
+56	34
+Phalainis ton Thorichtou Hydra-2	24
 Morena	5
-Eleda	6
-Upton Park FC	9
-Refugee Olympic Athletes	7
-Phalainis ton Thorichtou Psara-3	4
-Univ. of Brussels	5
-Tom Kyle	1
-Tilly	2
-Mouchette-2	5
-Potomac Archers	2
-Milwaukee Turnverein	4
-Ciocca	3
+Eleda	7
+Upton Park FC	11
+Refugee Olympic Athletes	12
+Phalainis ton Thorichtou Psara-3	7
+Univ. of Brussels	11
+Tom Kyle	3
+Tilly	3
+Mouchette-2	10
+Potomac Archers	3
+Milwaukee Turnverein	6
+Ciocca	5
 Galatea II	3
-Twins VIII	3
+Twins VIII	4
 40	6
-Bellatrix IX	2
-Bellatrix XIII	1
+Bellatrix IX	3
+Bellatrix XIII	2
 Slovenia-1	2
 Teresita	3
 Berliner Ruderclub	2
-Esperia	3
-Antwerpia V	7
+Esperia	5
+Antwerpia V	9
 Ciss	3
 Hakahana	2
-Concordia Turnverein	4
-Osborne Swimming Club	6
-Persey	2
-Saskia	3
+Concordia Turnverein	5
+Osborne Swimming Club	7
+Persey	3
+Saskia	6
 New York Athletic Club-1	6
-Galt Football Club	10
-Chicago Athletic Association-2	10
+Galt Football Club	13
+Chicago Athletic Association-2	11
 Fram	5
-Somalia	17
-Lynn	3
-Czechoslovakia-2	17
-Ylliam VII	5
-Ylliam VIII	4
-Scotland	7
-Scotland-2	7
-Scotland-3	9
-Esterel-1	1
+Somalia	32
+Lynn	5
+Czechoslovakia-2	22
+Ylliam VII	6
+Ylliam VIII	5
+Scotland	8
+Scotland-2	8
+Scotland-3	11
+Esterel-1	2
 Red Dragon	3
-83	35
-Century Boat Club-1	3
-Atlanta	4
-Yugoslavia-1	8
-England	9
+83	37
+Century Boat Club-1	4
+Atlanta	9
+Yugoslavia-1	10
+England	12
 Jamaica-1	2
 Rush V	3
 Rush VII	3
-Belgium-3	3
+Belgium-3	4
 Ceres II	3
 Australia-3	2
 North Borneo	2
-Grifone	1
-West Germany-3	3
-Cambridge University Boat Club-2	8
+Grifone	3
+West Germany-3	4
+Cambridge University Boat Club-2	9
 Moorina	2
-Vinha	4
-Buraddoo	5
-Starita	1
-Bem II	1
-Gabon	30
-Partenope	2
-Mound City Rowing Club-2	3
-Unified Team-1	9
-Unified Team-2	7
-Burundi	17
-Tonga	30
-Rhodesia	7
+Vinha	6
+Buraddoo	6
+Starita	2
+Bem II	3
+Gabon	63
+Partenope	3
+Mound City Rowing Club-2	4
+Unified Team-1	13
+Unified Team-2	13
+Burundi	39
+Tonga	46
+Rhodesia	10
 Impala	2
-Eritrea	35
-China-2	59
+Eritrea	43
+China-2	78
 Chinese Taipei-2	10
 Swedish Star	2
 Vaxholm Roddklubb	5
-Chok	2
-Humbug V	1
-Favorite-1	6
-Favorite-17	3
+Chok	3
+Humbug V	2
+Favorite-1	8
+Favorite-17	4
 Pan II	3
 Lett	3
-Elsie	3
-Devon and Somerset Wanderers	10
-John B	4
-Hungary-2	11
+Elsie	4
+Devon and Somerset Wanderers	12
+John B	6
+Hungary-2	16
 Pannonia RC/National RC	9
-Hungaria Evezos Egylet	7
+Hungaria Evezos Egylet	9
 106	4
 Wannsee	2
-Vietnam	61
-55	22
-Royal Club Nautique de Gand	19
-Riccar	1
-Hera-1	8
-Myojo	1
+Vietnam	154
+55	31
+Royal Club Nautique de Gand	31
+Riccar	2
+Hera-1	10
+Myojo	2
 102	5
-Lucky Girl-1	4
+Lucky Girl-1	5
 Squid III	2
 Inga-Lill XXXXIII	3
 Mexico-1	4
@@ -683,324 +683,324 @@ Mexico-2	4
 Singapore-1	2
 Miss Nippon V	3
 Buscape II	2
-96	8
-Twins II	2
-Pupilles de Neptune de Lille #1-3	4
-Pupilles de Neptune de Lille-1	1
-Falcon VI	1
-St. Rose-2	11
+96	9
+Twins II	5
+Pupilles de Neptune de Lille #1-3	7
+Pupilles de Neptune de Lille-1	4
+Falcon VI	2
+St. Rose-2	12
 Miss Nippon IV	3
 Chicago Archers	4
 Bona Fide	3
-Cincinnati Archers	7
-Thailand-1	2
+Cincinnati Archers	8
+Thailand-1	4
 Olimpia	2
-New Zealand-2	1
-Sarcelle-3	4
-Sarcelle-35	2
-Bhutan	30
-Nina	5
-Minerva Amsterdam	11
+New Zealand-2	2
+Sarcelle-3	6
+Sarcelle-35	3
+Bhutan	36
+Nina	7
+Minerva Amsterdam	17
 C.V.A.-14	2
 C.V.A.-7	4
 Mamie-4	2
 Mamie-6	4
-Quand-Mme-2	7
-Quand-Mme-33	3
+Quand-Mme-2	9
+Quand-Mme-33	4
 Singy-37	2
 Singy-7	2
-Denmark-4	1
-Ormsund Roklub-2	4
+Denmark-4	2
+Ormsund Roklub-2	5
 St. Louis Southwest Turnverein #2-3	5
 Sans Atout-1	5
-Astrid III	1
-Beaver	3
+Astrid III	3
+Beaver	4
 71	21
-Frieda	2
+Frieda	4
 South Africa-2	2
-Pan	6
-Nurdug II	2
-Gustel V	4
-Gustel X	1
-Gustl XI	1
+Pan	11
+Nurdug II	3
+Gustel V	5
+Gustel X	3
+Gustl XI	3
 Leander Club #1-1	2
-Leander Club-2	3
+Leander Club-2	4
 Baccara	3
-Gyrinus-1	4
+Gyrinus-1	6
 Hamburg	1
 Mac Miche	3
 Camille	1
-South Vietnam	31
-Germania Ruder Club	10
-Tuvalu	3
+South Vietnam	62
+Germania Ruder Club	11
+Tuvalu	7
 Serbia-1	2
 Kannibaltje	2
-Alcaid	2
-Bulgaria-2	5
-Neptun II	1
-Winnipeg Shamrocks-1	10
+Alcaid	3
+Bulgaria-2	6
+Neptun II	3
+Winnipeg Shamrocks-1	12
 Marmi II-1	3
-Olle	6
-Nigeria-1	3
+Olle	9
+Nigeria-1	10
 Norwegian Rowing Association	9
 Great Britain/Germany	2
 214	2
 Bermudian	2
 Bajazzo	3
-United States-11	1
-South St Louis Turnverein	5
-Omas Helliniki P. S.	3
+United States-11	2
+South St Louis Turnverein	6
+Omas Helliniki P. S.	8
 United States-10	2
 Serbia-2	2
-Panhellenios Gymnastikos Syllogos-1	9
-Chinese Taipei-1	8
-Camelia	3
-North Korea-1	4
+Panhellenios Gymnastikos Syllogos-1	11
+Chinese Taipei-1	10
+Camelia	4
+North Korea-1	6
 Cuxhaven	1
 Raili	6
-Great Britain-4	4
-Phoenix	2
+Great Britain-4	8
+Phoenix	3
 United States-14	2
-Lemzos Thorichton Psara-3	14
-Lully II	3
-USFSA	10
-Trickson VI	4
+Lemzos Thorichton Psara-3	17
+Lully II	5
+USFSA	13
+Trickson VI	5
 Tomahawk II	3
-Marmara	1
-New York Athletic Club	2
-Blue Red	3
-Aschenbrodel	6
-Suzy-2	2
+Marmara	2
+New York Athletic Club	5
+Blue Red	5
+Aschenbrodel	12
+Suzy-2	3
 Arcturus	2
-47	2
-Crabe II-1	1
-Crabe II-12	1
-Crabe II-4	1
+47	4
+Crabe II-1	5
+Crabe II-12	5
+Crabe II-4	5
 Formosa	1
-New York Athletic Club #2-4	3
+New York Athletic Club #2-4	4
 Danzig	1
 Trintel II	3
 Tan-Fe-Pah	3
-DeRuyter	5
-Lalage	7
-Joy	4
+DeRuyter	7
+Lalage	10
+Joy	5
 Thalatta	3
 Salinero	1
 Hollandia	6
 Whitini Star	1
 Springbok	2
-Xolotl	2
-Atalanta Boat Club-1	1
-Atalanta Boat Club-2	1
-Libellule de Paris	4
-Bera	1
-Rowing Club Castillon-3	2
+Xolotl	3
+Atalanta Boat Club-1	2
+Atalanta Boat Club-2	2
+Libellule de Paris	7
+Bera	2
+Rowing Club Castillon-3	3
 Tutti V	5
-Ral-Club Barcelona	3
-48	25
+Ral-Club Barcelona	5
+48	27
 Leander Club #2-2	2
-Daisy	4
-Chicago Athletic Association	4
-Life boat naval ship Spetsai-1	5
-Bonzo	2
-Sildra-1	3
+Daisy	5
+Chicago Athletic Association	5
+Life boat naval ship Spetsai-1	7
+Bonzo	3
+Sildra-1	4
 Martha-1	8
 Martha-27	4
-Patricia	2
-Kalayaan	2
-104	1
+Patricia	3
+Kalayaan	3
+104	4
 Sjovinge	2
-Maryke	1
-Nephos I	3
-Zefyros	1
+Maryke	2
+Nephos I	4
+Zefyros	2
 Western Rowing Club-3	6
-Crete	7
+Crete	11
 Gullvinge	3
-Ilderim	5
-Wendehals	1
-Macky VI	2
+Ilderim	6
+Wendehals	2
+Macky VI	3
 Brandenburg	1
 Hungary-3	2
-Nirwana	4
+Nirwana	5
 30. Februar	2
 May-Be 1960	2
 Freddy	2
 Willem-Six	3
 166	2
-Irene	3
+Irene	4
 Luxembourg-2	2
-Subbnboana	2
-Societ Nautique de la Marne	7
-Societ Nautique de la Marne-1	1
+Subbnboana	4
+Societ Nautique de la Marne	8
+Societ Nautique de la Marne-1	2
 Societ Nautique de la Marne-3	4
-New College	6
-123	1
+New College	9
+123	2
 Slaghoken	3
-Slaghoken II	2
-Santa Maria	5
+Slaghoken II	3
+Santa Maria	6
 Mystery	2
-Sunshine	1
-Marga-2	4
-Ireland-1	1
+Sunshine	2
+Marga-2	6
+Ireland-1	6
 Struten	3
 Pam	2
-Sorais-2	4
+Sorais-2	5
 Bohemia/Great Britain	1
 Freia-19	1
 Freia-5	2
-Hojwa	2
-Three Star Too	1
-Harmony	1
-Argo II	1
-Serendipity	2
+Hojwa	3
+Three Star Too	2
+Harmony	2
+Argo II	3
+Serendipity	3
 United States-4	2
-United States Golf Association-3	6
-51	13
+United States Golf Association-3	9
+51	20
 Luxembourg-1	2
 Zut	3
-Berliner Ruderclub Sport-Borussia-1	7
-Rose Pompon	1
-Pandora	1
-Independent Rowing Club-3	1
+Berliner Ruderclub Sport-Borussia-1	9
+Rose Pompon	3
+Pandora	2
+Independent Rowing Club-3	2
 Paka	2
 Satchmo	1
 Scram	2
-Glisten	1
-Wolseley-Siddeley-1	3
+Glisten	2
+Wolseley-Siddeley-1	4
 Babe	5
 Sea Dog-2	2
 171	6
 United States-5	2
-95	10
+95	13
 Smyrna	11
-Omilos Ereton Smyrnis	2
+Omilos Ereton Smyrnis	5
 Mainz	1
 Amstel Amsterdam	4
-87	9
-Heira II	5
+87	11
+Heira II	9
 Solos Carex	1
-Ludwigshafener Ruder Verein-1	4
-Ludwigshafener Ruderverein	4
-Kathleen	1
-53	5
+Ludwigshafener Ruder Verein-1	5
+Ludwigshafener Ruderverein	5
+Kathleen	2
+53	16
 169	1
-Roehampton-1	1
+Roehampton-1	4
 Mad Dog	2
 Hornet	2
 Nikh	2
 Diablo	2
-Swift	1
+Swift	2
 Hurlingham-2	4
 Whirlaway	2
-Comoros	16
-Ancora	3
+Comoros	19
+Ancora	4
 A North American Team	4
 Paka V	2
 Dow Jones	1
 Puerto Rico-2	1
-Bylina-2	2
-Roy	2
+Bylina-2	5
+Roy	3
 Bella	2
 117	2
 Nirefs	3
-Proteus II	2
-Druzhba	4
+Proteus II	3
+Druzhba	6
 Andorinha	2
-Bucintoro Venezia	7
-Israel-2	3
+Bucintoro Venezia	8
+Israel-2	4
 Bohemia-1	2
 Bohemia-2	2
-Czechoslovakia-3	2
-Kosovo	7
-Marie-Tim	1
+Czechoslovakia-3	6
+Kosovo	8
+Marie-Tim	2
 Digby	1
-Voloira II	1
-L'Aile VI	4
+Voloira II	3
+L'Aile VI	6
 Cercle de l'Aviron Roubaix-4	10
-Compigne Polo Club	3
-Vision	3
-Mutafo	1
-Calcinhas	1
+Compigne Polo Club	4
+Vision	4
+Mutafo	3
+Calcinhas	2
 Gteborgs Roddfrening-2	5
 Chamukina	2
 Nausikaa 4	2
-Lucky Star	3
-Namoussa	4
+Lucky Star	5
+Namoussa	5
 Yeoman XII	3
 Briar	1
-Christian Brothers' College-1	5
+Christian Brothers' College-1	10
 Gabbiano	3
 Gran Gesto	1
 Covunco III	2
 Bucintoro Venezia-1	3
 Edelweiss II-1	3
-Bamba	5
-Norna	3
+Bamba	6
+Norna	4
 Ali-Baba IV	2
 Ali-Baba VI	2
 Ali-Baba IX	2
-BLO Polo Club	3
-90	8
-Pigoule	1
-Snowten III	2
-Nigeria-2	3
+BLO Polo Club	4
+90	11
+Pigoule	2
+Snowten III	3
+Nigeria-2	10
 Peri II	2
-Pousse-Moi Pas VII	1
-Gilliatt V	2
-LaBandera	4
+Pousse-Moi Pas VII	2
+Gilliatt V	3
+LaBandera	5
 Brynhild-2	1
 Espuma del Mar	4
-Pupilles de Neptune de Lille #2-1	5
+Pupilles de Neptune de Lille #2-1	8
 Monaco-2	2
 Oman	66
 Elvis Va	1
-Romolo	1
-Aldebaran II	1
-Lotta IV	2
-Saga-2	2
+Romolo	2
+Aldebaran II	2
+Lotta IV	4
+Saga-2	5
 Mari	2
 Paula	3
 Oranje	2
-Acturus	1
-58	17
+Acturus	2
+58	40
 Barion/Bari-2	3
 Eissero VI	2
-New York Athletic Club-4	4
-Hong Kong-1	2
+New York Athletic Club-4	5
+Hong Kong-1	6
 Allegro	3
-Gam II	1
+Gam II	2
 Calimucho	1
 Kingfisher	2
 Yangon	2
 Sonja II	3
-Jill	2
+Jill	3
 Kiel	1
 KNS	2
-Uragan	1
+Uragan	2
 Kon-Tiki	2
-Antares	1
+Antares	2
 Venilia	3
 Mauritius-1	2
 127	1
-SagaII	2
+SagaII	3
 Gem	2
 June Climene	3
-Cambria	2
-Ballerina IV	2
+Cambria	3
+Ballerina IV	3
 Calypse II	2
-Ciocca II	4
+Ciocca II	7
 Tornade-16	1
 Tournade-40	1
-Galejan	2
+Galejan	3
 Cuba-1	2
-Dormy-1	1
+Dormy-1	3
 Rozenn-3	1
-Jest	1
-Scotia	3
-R.-V. Germania	4
-Akatonbo	2
-Burevestnik	2
-Elisabeth V	1
+Jest	2
+Scotia	6
+R.-V. Germania	5
+Akatonbo	3
+Burevestnik	3
+Elisabeth V	3
 163	9
 99	11
 New York Athletic Club #1-1	3
@@ -1013,48 +1013,48 @@ Pierre et Jean-3	1
 Pierre et Jean-4	2
 Espadarte	2
 Fruits	5
-Sidi Fekkar-36	2
-Sidi-Fekkar-14	4
+Sidi Fekkar-36	4
+Sidi-Fekkar-14	8
 Souvenance	1
-Meteor	1
+Meteor	2
 Kurush IV	4
 Vesania	2
 Kurush II	2
-Canopus	1
+Canopus	6
 Crabe I-11	1
 Crabe I-2	1
 Crabe I-3	1
 United States/France	2
 Vicking	2
-Virginie	2
-Acipactli	2
-Belgium-4	3
+Virginie	3
+Acipactli	3
+Belgium-4	4
 Pegaso	2
 Girl Pat	3
 Fada	2
-Bu III	1
-Qu'Importe	2
+Bu III	2
+Qu'Importe	5
 Lerina	9
-Grifo IV	2
-Bagatelle Polo Club	3
+Grifo IV	3
+Bagatelle Polo Club	4
 Hirondelle	2
-Mauritius-2	1
-178	9
-Club Nautique de Dieppe-5	5
+Mauritius-2	2
+178	11
+Club Nautique de Dieppe-5	6
 The Cloud	2
 Socit Nautique de la Basse Seine-1	8
 Socit Nautique de la Basse Seine-2	3
-Dolfijn	3
-Frip IV	1
+Dolfijn	5
+Frip IV	2
 Hb-20	1
 Hb-24	1
-Fornebo	3
-Unique	2
-Pan-Hellenic Athletic Club	4
+Fornebo	4
+Unique	3
+Pan-Hellenic Athletic Club	5
 Galerna	3
-Nykjbings paa Falster	3
+Nykjbings paa Falster	5
 Dresden	1
-105	2
+105	3
 Mignon-29	1
 Mignon-3	2
 Naiad	2
@@ -1063,45 +1063,45 @@ Oxalis	1
 146	1
 Gitana-2	10
 Gitana-21	5
-Nina Claire-2	2
-Nina Claire-30	1
+Nina Claire-2	8
+Nina Claire-30	4
 Tajamar	2
-Galopin-20	1
-Galopin-9	2
+Galopin-20	2
+Galopin-9	4
 France-4	2
 Guanahani	3
 Unknown	2
-Amolgavar	1
+Amolgavar	3
 rn-2	5
-Oleander II	1
-167	3
-Tu-Fri	2
-Primorka	1
+Oleander II	2
+167	4
+Tu-Fri	3
+Primorka	2
 Cha-Cha III	2
 Augsburg	1
 Ariel	2
-Encore	1
+Encore	2
 Gem II	2
 Gem III	2
 Gem IV	2
 Gem VII	2
 Dylan-2	2
 Evita VI	1
-Cercle Nautique de Reims-4	1
-Cuba-2	1
-Elisabeth X	4
-Grifo III	1
-Ylliam II	4
+Cercle Nautique de Reims-4	2
+Cuba-2	2
+Elisabeth X	5
+Grifo III	3
+Ylliam II	5
 Brigantia	2
 Espardate	2
 GyoshuII	2
-Xantippa	2
-Skum	1
-Miss Denmark 1964	1
-Helsingfors R. K.	2
+Xantippa	3
+Skum	2
+Miss Denmark 1964	2
+Helsingfors R. K.	5
 Newfoundland	1
 Fram III	3
-Mizar	1
+Mizar	2
 Essen	1
 Cinara-13	1
 Baby-1	2
@@ -1113,64 +1113,64 @@ Colette-10	1
 Colette-12	2
 Germany/United States	1
 Rika II	4
-Korshun	1
+Korshun	3
 Quicksilver-2	1
-Viktoriya	1
-Sjhxa	1
-Ciocca III	1
+Viktoriya	3
+Sjhxa	3
+Ciocca III	3
 Belarus-2	2
 137	1
 Jupiter	1
 Three Leaves	2
-Philadelphia Turngemeinde	4
+Philadelphia Turngemeinde	6
 Breslau	1
-Pasodoble	1
-Sass-2	2
-Deutscher Schwimm Verband Berlin	2
-Shrew II	1
-Salamander	2
+Pasodoble	2
+Sass-2	3
+Deutscher Schwimm Verband Berlin	4
+Shrew II	2
+Salamander	3
 Johan	5
 155	6
-Jamaica-2	1
-Andromeda	1
+Jamaica-2	2
+Andromeda	3
 Viking	1
-South Sudan	2
-Sweden-4	1
-Chance	1
-Yeoman V	2
+South Sudan	3
+Sweden-4	2
+Chance	2
+Yeoman V	3
 Knigsberg	1
 Don Schufro	1
-Syndi	1
-New Zealand-1	1
-Tramontane	1
-Sandra	1
+Syndi	2
+New Zealand-1	2
+Tramontane	2
+Sandra	3
 Lbeck	1
-Yeoman	2
+Yeoman	4
 Beatrijs III-1	3
 Lancet	1
-Ravenswood Boat Club-2	1
+Ravenswood Boat Club-2	2
 Whisper	1
 113	1
-Balaton	1
+Balaton	2
 14	1
 18	1
 Laurea-1	1
 149	1
-Surprise	2
-Boreas	2
-MitaII	1
+Surprise	3
+Boreas	3
+MitaII	2
 107	1
-Guyoni	1
-Bluebottle	1
+Guyoni	3
+Bluebottle	3
 Clearwater	1
-Singapore-2	1
+Singapore-2	2
 United States-8	2
-120	1
+120	2
 Dick-8	1
 Nrnberg	1
-Tengiri	1
+Tengiri	2
 Hayama	2
-Ethnikos Gymnastikos Syllogos	1
+Ethnikos Gymnastikos Syllogos	2
 St. Margrite	1
 Bim	3
 Bonaparte	1
@@ -1181,10 +1181,93 @@ Pettit-Poucet-6	1
 Mythilus	1
 Rambo	1
 Floresco	1
-Lucky	1
-39	12
-Belarus-1	1
+Lucky	2
+39	24
+Belarus-1	2
 Rostock	1
-Norman-1	2
+Norman-1	5
 165	1
-Olympion	1
+Olympion	2
+Heidelberg	1
+Amulet-3	4
+Amulet-7	2
+Crocodile-11	2
+Crocodile-13	1
+Leipzig	1
+Red Indian	2
+Alcyon-6	1
+Alcyon-7	2
+Suzon IV-39	1
+Suzon IV-5	2
+Mascaret-28	1
+Mascaret-4	2
+Combine	2
+118	2
+Holland	2
+Frimousse	3
+Portugal-2	2
+France/Great Britain	2
+Gyp-23	1
+Gyp-6	1
+Fortuna	2
+Starlight III	2
+172	1
+Pirouette-31	1
+Pirouette-5	2
+Mebi	3
+Slovenia-2	2
+46	6
+Brentina	1
+United States-7	1
+97	1
+Nan-2	1
+Hannover	1
+Scamasaxe-2	2
+Scamasaxe-3	2
+Scamasaxe-34	2
+Jeanette-25	1
+Jeannette-18	1
+Turquoise-1	1
+Turquoise-3	2
+Nadine	1
+111	6
+Twinkle	2
+Ducky-16	1
+Ducky-4	2
+Souriceau-38	1
+Souriceau-4	2
+Firebird II	2
+Lady C	2
+Marsouin-26	1
+Marsouin-8	1
+Pimm	2
+Bingo	1
+Pop Art	1
+South Africa-1	2
+Konstanz	1
+Bremen	1
+Quando Quando	1
+125	4
+Mistral Hojris	1
+Manana	2
+60.5	2
+Diabolo St Maurice	1
+Ravel	1
+Kln	1
+Demi-Mondaine-15	1
+Demi-Mondaine-17	1
+Notavel	1
+Galopin De La Font	1
+Margaret	1
+Portugal-1	2
+Clementine V	2
+Comanche	2
+Symphony	2
+78.5	2
+Cicely-1	1
+Ma'Lindo	2
+55.5	3
+116	1
+Orion	1
+Tineke	1
+Team	1

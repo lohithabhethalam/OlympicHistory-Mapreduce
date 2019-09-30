@@ -14,6 +14,7 @@ for line in s:
     if country in thisDict.keys():
         thisDict[country] = thisDict[country] + 1
     # if country doesnt match the previous country key in dictionary then consider key value as one
+        
     else:
         thisDict[country] = 1 
        
