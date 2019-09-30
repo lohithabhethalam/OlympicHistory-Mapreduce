@@ -25,7 +25,7 @@ What makes it a big data problem?
 - For each year, I'll calculate the count of male people who participated in Olympic games. (Lohitha Bhethalam)
 - For each country,I'll find the maximum height of participants. (Poojitha Singam) 
 - For each year,I'll find the average age of players participated in Olympic games. (Divyaharshini Bheemireddy)
-- For each country,I will find the sum of all the players particpated in Olympic games. (Gangadhar Adusumalli)
+- For each country,I will find the sum of all the players of each country particpated in Olympic games. (Gangadhar Adusumalli)
 
 ## Big data solutions
  One solution per developer.
@@ -85,7 +85,7 @@ What makes it a big data problem?
      * 2012 London  
     
   * Reducer output:
-    *  year = 1992 sum of all players = 2235
+    *  year = 1992 sum of all players of USA = 2235
   * Language being used:
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
