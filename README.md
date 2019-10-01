@@ -98,4 +98,6 @@ What makes it a big data problem?
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/malecount_year_reduceroutput.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/maxheight_mapperoutput.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/maxheight_reduceroutput.png)
+    ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/sumofAtheltes_country_mapperOutput.png)
+    ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/sumofAtheltes_country_reducerOutput.png)
     
