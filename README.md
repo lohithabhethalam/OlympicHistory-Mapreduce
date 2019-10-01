@@ -44,7 +44,8 @@ What makes it a big data problem?
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
     * I will use pie chart to display my results.
-    ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/malecount_chart.PNG)
+    * ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/malecount_chart.PNG)
+
 - #### Divyaharshini Bheemireddy
   * Mapper input: One line of data that mapper will read:
       * 1	A Dijiang	M	24	180	80	China	CHN	1992 Summer	1992	Summer	Barcelona	Basketball	Basketball Men's Basketball	NA
@@ -74,7 +75,7 @@ What makes it a big data problem?
     * I used Python for map reducing.
   * What kind of chart will you use to display your results? 
     * I will use Bar chart to display my results.
-    ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/Capture.PNG)
+    * ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/Capture.PNG)
  
 - #### Gangadhar Adusumalli
   * Mapper input:
@@ -92,7 +93,7 @@ What makes it a big data problem?
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
     * I will use bar chart to display my results.
-    ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/barchart_sumofAtheltes_country.PNG)
+    * ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/barchart_sumofAtheltes_country.PNG)
   ## Execution Commands
      
   ## Images
