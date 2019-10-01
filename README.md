@@ -92,12 +92,16 @@ What makes it a big data problem?
     * I will use bar chart to display my results.
     
   ## Images
+    - Divyaharshini Bheemireddy
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/avgageyear_mapper.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/avgageyear_reducer.png)
+    - Lohitha Bhethalam
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/malecount_year_mapperoutput.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/malecount_year_reduceroutput.png)
+    - Poojitha Singam
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/maxheight_mapperoutput.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/maxheight_reduceroutput.png)
+    - Gangadhar Adusumalli
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/sumofAtheltes_country_mapperOutput.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/sumofAtheltes_country_reducerOutput.png)
     
