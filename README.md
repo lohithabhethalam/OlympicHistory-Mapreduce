@@ -90,18 +90,19 @@ What makes it a big data problem?
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
     * I will use bar chart to display my results.
-    
+  ## Execution Commands
+     
   ## Images
-    - Divyaharshini Bheemireddy
+    #### Divyaharshini Bheemireddy
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/avgageyear_mapper.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/avgageyear_reducer.png)
-    - Lohitha Bhethalam
+    #### Lohitha Bhethalam
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/malecount_year_mapperoutput.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/malecount_year_reduceroutput.png)
-    - Poojitha Singam
+    #### Poojitha Singam
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/maxheight_mapperoutput.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/maxheight_reduceroutput.png)
-    - Gangadhar Adusumalli
+    #### Gangadhar Adusumalli
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/sumofAtheltes_country_mapperOutput.png)
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/sumofAtheltes_country_reducerOutput.png)
     
