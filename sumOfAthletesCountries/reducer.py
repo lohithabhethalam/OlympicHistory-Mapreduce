@@ -9,7 +9,7 @@ value = 0
 # read each line in input file
 sortedData = s.readlines() 
 sortedData.sort()
-
+r.write("Country" +'\t'+ "Sum of Countries" + "\n" )
 for line in sortedData:
     data = line.strip().split('\t')
     name = data[2]
