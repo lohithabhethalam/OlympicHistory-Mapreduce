@@ -94,7 +94,7 @@ What makes it a big data problem?
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
     * I will use bar chart to display my results.
-    ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/barchart_sumofAtheltes_country.PNG)
+    ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/sumOfAthletesfoCountry.PNG)
   ## Execution Commands
      
   ## Images
