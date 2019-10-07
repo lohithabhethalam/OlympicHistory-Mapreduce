@@ -11,8 +11,8 @@ for line in lines:
     age = data[3]
     year = data[9]
     # write the selected columns into reducerInput.txt
-    r.write(age +'\t'+ year + '\n')
-    print(age +'\t'+ year + '\n')
+    r.write(year +'\t'+ age + '\n')
+    print(year +'\t'+ age + '\n')
 # close athlete_events.txt and reducerInput files
 s.close()
 r.close()
