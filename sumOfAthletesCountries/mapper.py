@@ -12,8 +12,8 @@ for line in lines:
     year = data[9]
     country = data[6]
     # write the selected columns into mapperOutput.txt
-    r.write(name +'\t'+ year + '\t' + country + '\n')
-    print(name +'\t'+ year + '\t' + country + '\n')
+    r.write(country +'\t'+ year + '\t' + name + '\n')
+    print(country +'\t'+ year + '\t' + name + '\n')
 # close athlete_events.txt and mapperoutput files
 s.close()
 r.close()
