@@ -1,4 +1,4 @@
-reducerinput = open("mapperoutput.txt","r")
+reducerinput = open("reducerinput.txt","r")
 reduceroutput = open("reduceroutput.txt", "w")
 
 thisKey = ""
@@ -10,22 +10,26 @@ for line in reducerinput:
   #payment, cost = data
 
   if year != thisKey:
-    if thisKey:
-      # output the last key value pair result
-      reduceroutput.write(thisKey + '\t'  +str(thisValue) +'\n')
+    if str(gender) == 'M':
+      if thisKey:
+        # output the last key value pair result
+        reduceroutput.write(thisKey + '\t'  +str(thisValue) +'\n')
+        print(thisKey + '\t'  +str(thisValue) +'\n')
 
-    # start over when changing keys
-    thisKey = year 
-    thisValue = 0.0
+      # start over when changing keys
+      thisKey = year 
+      thisValue = 0.0
   
   # apply the aggregation function
   
-  if str(gender) = 'M':
-    thisValue += float(count)
+  if str(gender) == 'M':
+  
+    thisValue += 1
     count += 1
 
 # output the final entry when done
 reduceroutput.write(thisKey + '\t'+ str(thisValue) + '\n')
+print(thisKey + '\t'  +str(thisValue) +'\n')
 
 reducerinput.close()
 reduceroutput.close()
