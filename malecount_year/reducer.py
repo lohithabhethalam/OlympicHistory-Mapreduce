@@ -1,36 +1,31 @@
-# open and read contents of s.txt for input
 reducerinput = open("mapperoutput.txt","r")
-# write output contents in result.txt
 reduceroutput = open("reduceroutput.txt", "w")
-# sort the contents of reducerinput (do not use below 2 lines of code if you are running file in VM, as VM by default has sort/shuffle programs in them)
-lines = reducerinput.readlines()
-lines.sort()
-# set variable malecount value to 0
-maleCount = 0
-# create new dictionary with empty key, value pairs
-thisDictionary = {}
-# read each line in input file
-for line in lines:
-    # separate columns in data 
-    data = line.strip().split('\t')
-    year = data[0]
-    gender = data[1]
-    # if gender is male and if year key in the dictionary is equal to the previous year key increment year key with 1
-    if year in thisDictionary.keys():
-         if str(gender) == 'M':
-            thisDictionary[year] = thisDictionary[year] + 1
-    # else if gender is male and if year key in the dictionary is not equal to the previous year key initialize year key in dictionary to 1 
-    else:
-         if str(gender) == 'M':
-             thisDictionary[year] = 1
-   
-        
-# write the output contents in results.txt
 
-for keyItem,value in thisDictionary.items():
+thisKey = ""
+thisValue = 0.0
+count = 0
+for line in reducerinput:
+  data = line.strip().split('\t')
+  year, gender = data
+  #payment, cost = data
 
-    reduceroutput.write("Year: "+keyItem+"\t"+"count of male people: "+str(value) +"\n")
-    print("Year: "+keyItem+"\t"+"count of male people: "+str(value) +"\n")
-# close mapperoutput.txt and reduceroutput.txt
+  if year != thisKey:
+    if thisKey:
+      # output the last key value pair result
+      reduceroutput.write(thisKey + '\t'  +str(thisValue) +'\n')
+
+    # start over when changing keys
+    thisKey = year 
+    thisValue = 0.0
+  
+  # apply the aggregation function
+  
+  if str(gender) = 'M':
+    thisValue += float(count)
+    count += 1
+
+# output the final entry when done
+reduceroutput.write(thisKey + '\t'+ str(thisValue) + '\n')
+
 reducerinput.close()
 reduceroutput.close()
