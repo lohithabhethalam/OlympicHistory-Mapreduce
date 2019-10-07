@@ -44,6 +44,7 @@ What makes it a big data problem?
     * The language that I am using for map reducing is "Python".
   * What kind of chart will you use to display your results? 
     * I will use bar chart to display my results.
+    * ##### Bar chart to display male count for each year
     * ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/malecount_chart.PNG)
 - #### Divyaharshini Bheemireddy
   * Mapper input: One line of data that mapper will read:
