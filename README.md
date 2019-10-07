@@ -95,6 +95,7 @@ What makes it a big data problem?
   * What kind of chart will you use to display your results? 
     * I will use bar chart to display my results.
     ![](https://github.com/lohithabhethalam/OlympicHistory-Mapreduce/blob/master/images/sumOfAthletesfoCountry.PNG)
+    
   ## Execution Commands
      
   ## Images
